@@ -1,6 +1,5 @@
 # Techno-Edge-Sales-Analysis-FMCG-MS-Excel-Power-BI
 
-https://github.com/PriyankaTippe/Techno-Edge-Sales-Analysis-FMCG-MS-Excel-Power-BI/blob/main/Screenshot%202023-03-20%20111324.png
 
 **Project Overview**
 
